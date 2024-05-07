@@ -1,2 +1,3 @@
 # apanacollege-demo
-this is my git repository.
+this is my git repository. 
+Author-satyam jaiswal 
